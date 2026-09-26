@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>""Typing SVG" (https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Meu+nome+é+Nathan;Tenho+17+anos+de+idade;Auxiliar+em+Desenvolvimento+de+Sistemas;+Bem-vindo!+=%29)" (https://git.io/typing-svg)
 
-Linguagens & Desenvolvimento Web:
+Linguagens:
 
 ""Java" (https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)" (#)
-""PHP" (https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)" (#)
+""PHP" (https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)" (#)<br>
 ""C%23" (https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)" (#)
 ""Python" (https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)" (#)<br>
 ""HTML5" (https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)" (#)
-""CSS3" (https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)" (#)
+""CSS3" (https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)" (#)<br>
 ""JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)" (#)
 ""C" (https://img.shields.io/badge/C-3178C6?logo=c&logoColor=fff)" (#)
+""SQL" (https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)" (#)
 
-Frameworks & Banco de Dados:
+Frameworks:
 
 ""Laravel" (https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)" (#)
-""SQL" (https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)" (#)
 
 Ferramentas:
 
@@ -23,8 +23,7 @@ Ferramentas:
 ""Git" (https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)" (#)
 ""GitHub" (https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)" (#)
 ""GitHub Desktop" (https://img.shields.io/badge/GitHub%20Desktop-purple?logo=github&logoColor=white)" (#)
-""Linux" (https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)" (#)
-""Terminal Linux" (https://img.shields.io/badge/Terminal%20Linux-241F31?logo=gnubash&logoColor=white)" (#)
+""Terminal Linux" (https://img.shields.io/badge/Terminal%20Linux-FCC624?logo=linux&logoColor=000)" (#)
 
 Design:
 
