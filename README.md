@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=343642&center=true&vCenter=true&width=600&lines=Bem+Vindo%2C+Sou+d3monrootkit%2C+sou+legi%C3%A3o" alt="Typing SVG" />
+</p>
+
 Linguagens:
 
 
