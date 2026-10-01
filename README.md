@@ -19,9 +19,7 @@
 
 <br>
 
-<!-- ===================== LINGUAGENS ===================== -->
-
-<h2 align="center">☠ Linguagens ☠</h2>
+Linguagens:
 
 <p align="center">
 
@@ -47,9 +45,7 @@
 
 <br>
 
-<!-- ===================== FERRAMENTAS ===================== -->
-
-<h2 align="center">☠ Ferramentas ☠</h2>
+Ferramentas:
 
 <p align="center">
 
@@ -63,9 +59,7 @@
 
 <br>
 
-<!-- ===================== DESIGN ===================== -->
-
-<h2 align="center">☠ Design ☠</h2>
+Design:
 
 <p align="center">
 
