@@ -1,9 +1,7 @@
-<!-- ===================== HEADER ===================== -->
-
 <p align="center">
   <img
     width="100%"
-    src="./assets/welcome-hell.jpg"
+    src="./welcome-hell.jpg"
     alt="Welcome to Hell"
   />
 </p>
@@ -73,12 +71,10 @@ Design:
 
 <br><br>
 
-<!-- ===================== FOOTER ===================== -->
-
 <p align="center">
   <img
     width="100%"
-    src="./assets/skull-footer.jpg"
+    src="./skull-footer.jpg"
     alt="Skull"
   />
 </p>
